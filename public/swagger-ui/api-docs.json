@@ -96,6 +96,11 @@
                 "summary": "Get Report",
                 "description": "Get a report by id"
             },
+            "post": {
+                "tags": ["user"],
+                "summary": "User add comment to Report",
+                "description": "User add comment to a report by id"
+            },
             "patch": {
                 "tags": ["admin"],
                 "summary": "Update Report",
